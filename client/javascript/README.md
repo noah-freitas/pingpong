@@ -12,7 +12,7 @@ Example Usage:
     	
     	// authenticate site
     	p.me('pingpong.ms@sites.pingpong.ms')({
-    		loggedIn: siteLoggedaIn,
+    		loggedIn: siteLoggedIn,
     		failed: siteLoginFailed
     	});
     	
