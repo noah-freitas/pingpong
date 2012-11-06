@@ -52,6 +52,6 @@ $(function (global) {
 		received: messageReceived,
 		delivered: messageDelivered,
 		failed: messageFailed
-	})
+	});
 }(this));
 ```
